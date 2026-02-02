@@ -8,7 +8,7 @@ Exercise in Go Web Services, Containerisation and Kubernetes Deployments
 - Docker
 - Kubectl
 - Helm
-- Minikube
+- Kind
 
 ## Running Locally
 
